@@ -80,3 +80,9 @@ pin 21: state 0 -> 0
 ```
 
 Success !! ... And thanks to all who helped !!!
+
+SEE Man pages
+
+gpioctl(8)
+gpio(4)
+gpio.conf(5)
