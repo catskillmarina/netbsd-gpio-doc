@@ -69,3 +69,5 @@ bash-4.3# gpioctl /dev/gpio0 21 0
 pin 21: state 0 -> 0
 
 ```
+
+Success !! ... And thanks to all who helped !!!
