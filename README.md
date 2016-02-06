@@ -1,7 +1,7 @@
 # netbsd-gpio-doc
 NetBSD GPIO DOC
 
-This is the story of a night of frustrating hacking to get GPIO working on
+This is the story of a good night getting GPIO working on
 a raspberry pi running NetBSD.
 
 Most linux tutorials seem to focus on using python but i was intriegued with the shell utility
