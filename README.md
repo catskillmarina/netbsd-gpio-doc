@@ -20,6 +20,15 @@ bash-4.3# gpioctl gpio0 2 set out pp
 gpioctl: GPIOSET: Operation not permitted
 
 ```
+Here is the email i sent to the ports-arm@netbsd.org list.
+
+(http://mail-index.netbsd.org/port-arm/2016/02/13/msg003670.html) [http://mail-index.netbsd.org/port-arm/2016/02/13/msg003670.html]
+
+...and the helpful response.
+
+(http://mail-index.netbsd.org/port-arm/2016/02/13/msg003669.html) [http://mail-index.netbsd.org/port-arm/2016/02/13/msg003669.html]
+
+
 What i did not realize is that there was a lot of boot time setup needed to use the GPIO pins.
 
 First you have to activate the gpio configuration in /etc/rc.conf with the following line:
